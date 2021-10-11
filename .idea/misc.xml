@@ -4,7 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.13385416666666666" />
-        <entry key="app/src/main/res/layout/list_item_sound.xml" value="0.11875" />
+        <entry key="app/src/main/res/drawable/button_beat_box.xml" value="0.16041666666666668" />
+        <entry key="app/src/main/res/drawable/button_beat_box_normal.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/button_beat_box_pressed.xml" value="0.16041666666666668" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19773429454170957" />
+        <entry key="app/src/main/res/layout/list_item_sound.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/test_layout_for_lerning.xml" value="0.5814249363867684" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
